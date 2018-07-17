@@ -16,6 +16,8 @@ else
 	echo "You are not running this script on Debian OS"
 	exit
 
+fi
+
 #https://github.com/adenvt/OcsPanels/wiki/tutor-debian
 
 clear
