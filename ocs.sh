@@ -20,7 +20,7 @@ fi
 vps="vps";
 
 if [[ $vps = "vps" ]]; then
-	source="source="https://raw.githubusercontent.com/Tepsus/scrip/master"
+	source="https://raw.githubusercontent.com/Tepsus/scrip/master"
 else
 	source="https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master"
 fi
