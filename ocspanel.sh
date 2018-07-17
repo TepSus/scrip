@@ -8,7 +8,6 @@ fi
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
 OS=`uname -m`;
-
 if [[ -e /etc/debian_version ]]; then
 	#OS=debian
 	RCLOCAL='/etc/rc.local'
